@@ -5,53 +5,49 @@ This is a simple web page created with Utopia, including HTML, CSS, and JavaScri
 ## Features
 - A simple, interactive webpage with a button
 - Responsive design for desktop and mobile
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TNT-Bank</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publishing Your App in the Utopia Ecosystem</title>
 </head>
 <body>
-    <h1>🚀 TNT-Bank: The Last Crypto You’ll Ever Need</h1>
-    <p>Built for logic. Auditable by math. Trusted by no one—and that’s the point.</p>
-
-    <h2>💎 1. Unbreakable Security—Not Just “Strong”</h2>
-    <p>Bitcoin burns energy. TNT‑Bank burns ambiguity.</p>
-    <ul>
-        <li>🔐 <strong>Dual-Key Signatures:</strong> You approve both outgoing and incoming transfers.</li>
-        <li>🔄 <strong>2-Minute Finality:</strong> Atomic batch processing. No forks. No race conditions.</li>
-        <li>🔭 <strong>Quantum-Resistant:</strong> Engineered to withstand future-state cryptanalysis.</li>
-        <li>🧠 <strong>No Double-Spending—Ever:</strong> Proven impossible via Coq-verified formal proofs.</li>
-    </ul>
-    <p>“TNT isn't assumed secure—it’s provably secure under the same axioms that underpin Bitcoin’s own cryptography.”</p>
-
-    <h2>🔍 2. Truth > Trust: Everything is Verifiable</h2>
-    <p>No marketing claims. Just math you can inspect.</p>
-    <ul>
-        <li>🧾 <strong>All logic</strong>—from wallet structure to routing—is expressed in pure λ-calculus.</li>
-        <li>🏛️ <strong>Full implementations</strong> in Scheme and Prolog are human-readable and auditable.</li>
-        <li>🧪 <strong>Smart contracts</strong> are self-contained theorems—provable or rejectable.</li>
-    </ul>
-    <p>You don’t have to trust us. You can evaluate the math yourself.</p>
-
-    <h2>🔑 3. Total Control. No Middlemen.</h2>
-
-    <h2>📊 Details</h2>
-    <p>Goal: Show the tech. Impress the brain. Eliminate uncertainty.</p>
-    <p>Tone: Technical, visual, and auditable.</p>
-
-    <h2>🧠 Philosophy</h2>
-    <p>Goal: Speak to the mind. The ones who trust logic, not marketing.</p>
-    <p>Tone: Rigorous, minimalist, and transparent.</p>
-
-    <h2>👾 Existing Crypto-Users</h2>
-    <p>Goal: Speak directly to crypto-native users. Let them compare protocols and adopt with confidence.</p>
-    <p>Tone: Tactical, precise, peer-to-peer.</p>
-
-    <h2>💼 Become a TNT-Bank Client</h2>
-    <p>Gives you the option to actually buy the tokens, get a wallet, and so on.</p>
+  <h1>Steps to Upload and Publish Your App within the Utopia Ecosystem</h1>
+  <ol>
+    <li>
+      <strong>Understand Utopia's Capabilities:</strong>
+      <p>Utopia is a decentralized ecosystem offering features like instant messaging, file transfers, group chats, channels, and a private browsing experience through its Idyll browser.</p>
+      <p>Learn more at <a href="https://utopian.is">utopian.is</a></p>
+    </li>
+    <li>
+      <strong>Develop Your App:</strong>
+      <p>Ensure your app aligns with Utopia's decentralized principles and utilizes its unique features.</p>
+      <p>For guidance, refer to the Utopia Quickstart Guide at <a href="https://utopia-project.org">utopia-project.org</a></p>
+    </li>
+    <li>
+      <strong>Host Your App within Utopia:</strong>
+      <p>Utopia allows hosting websites and services within its network using the Utopia Name System (uNS).</p>
+      <p>To host your app, set up packet forwarding and register a uNS name. Detailed instructions are available at <a href="https://utopian.is">utopian.is</a></p>
+    </li>
+    <li>
+      <strong>Register a uNS Name:</strong>
+      <p>A uNS name serves as a decentralized domain within the Utopia network, allowing users to access your app securely and anonymously.</p>
+      <p>Learn more about uNS registration at <a href="https://utopian.is">utopian.is</a></p>
+    </li>
+    <li>
+      <strong>Utilize Utopia's Packet Forwarding:</strong>
+      <p>This feature enables you to tunnel data between users, facilitating secure access to your app. Set up packet forwarding to ensure accessibility within the Utopia network. Instructions are provided at <a href="https://utopian.is">utopian.is</a></p>
+    </li>
+    <li>
+      <strong>Test Your App:</strong>
+      <p>Before promoting your app, thoroughly test its functionality within the Utopia network to ensure reliability and performance.</p>
+    </li>
+    <li>
+      <strong>Promote Your App:</strong>
+      <p>Share your app's uNS name and features within the Utopia community to attract users. Engage with Utopia channels and forums to increase visibility. More information is available at <a href="https://utopian.is">utopian.is</a></p>
+    </li>
+  </ol>
+  <p>By following these steps, you can successfully upload and publish your app within the Utopia ecosystem, ensuring it reaches users who value privacy and decentralization.</p>
 </body>
 </html>
-
